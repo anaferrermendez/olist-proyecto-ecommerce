@@ -31,7 +31,6 @@ El análisis responde la pregunta central:
 | `olist_order_reviews_dataset.csv` | Satisfacción del cliente (review_score). |
 | `olist_customers_dataset.csv` | Ubicación geográfica del comprador. |
 | `olist_geolocation_dataset.csv` | Coordenadas lat/lng por CEP. |
-| `olist_sellers_dataset.csv` | Ubicación del vendedor. |
 | `olist_products_dataset.csv` | Categoría y dimensiones físicas del producto. |
 | `product_category_name_translation.csv` | Traducción de categorías al inglés. |
 
